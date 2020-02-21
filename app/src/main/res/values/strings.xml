@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner Wheel</string>
+
+    <string name="policy_content_description">Privacy Policy</string>
+    <string name="policy_message">Do you want to open Privacy Policy link?</string>
+    <string name="rotate">ROTATE</string>
+    <string name="option">Option %s1</string>
+    <string name="yes">yes</string>
+    <string name="settings_dialog_title">Enter new value</string>
+    <string name="ok">ok</string>
+</resources>
