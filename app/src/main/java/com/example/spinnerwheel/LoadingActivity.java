@@ -13,7 +13,7 @@ import butterknife.ButterKnife;
 
 public class LoadingActivity extends AppCompatActivity {
 
-    private final int LOADING_DELAY = 400;
+    private final int LOADING_DELAY = 4500;
 
     @BindView(R.id.progressBar)
     ProgressBar progressBar;
